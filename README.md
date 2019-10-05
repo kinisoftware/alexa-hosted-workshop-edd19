@@ -40,7 +40,7 @@
     * Copy error handler
   * Test the skill (Test tab)
   * Add the ScheduleIntentHandler
-  * Add SSML to talk's title
+  * Add [SSML to talk's title](https://developer.amazon.com/docs/custom-skills/speech-synthesis-markup-language-ssml-reference.html#lang)
   * Check logs
 * Check Test tab
 * Check Distribution tab
