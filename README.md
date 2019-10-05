@@ -1,5 +1,7 @@
 # alexa-hosted-workshop-edd19
 
+[Slides](https://drive.google.com/open?id=1TRbeftMSemLi5hiHbztedHPEodCN7eka)
+
 ## Skill
 * Creamos un nuevo skill en es_ES, custom y con Alexa-Hosted
 * [Interactor model](https://gist.github.com/kinisoftware/0f99d7c689d257f05f330a0f4189c65c)
